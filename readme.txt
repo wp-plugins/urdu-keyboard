@@ -15,12 +15,16 @@ This is the First Urdu writing keyboard Plugin for WordPress. Now you can easily
 
 This Urdu Keyoboard (Phonetic) for WordPress, enables you to easily type Urdu in WordPress without installing Urduphonetic keyboard in your system.
 
-Contact us on: (Rad Labs) http://www.radlabs.biz
+= Contact =
+Rad Labs http://www.radlabs.biz
+
+= Compatible Browsers =
+Chrome, Firefox, IE10, IE11, Safari and Opera.
 
 == Installation ==
 
 1. Unzip the download package
-2. Upload `urdu_keyboard` to the `/wp-content/plugins/` directory
+2. Upload `urdu-keyboard` to the `/wp-content/plugins/` directory
 3. Activate the plugin through the 'Plugins' menu in WordPress
 
 = Manual Plugin Installation =
