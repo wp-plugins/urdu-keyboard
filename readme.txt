@@ -1,5 +1,5 @@
 === Plugin Name ===
-Contributors: zayedbaloch,
+Contributors: zayedbaloch, naeemnur,
 Donate link: http://radlabs.biz/
 Tags: urdu keyboard, urdu writting, Urdu,
 Requires at least: 3.2
