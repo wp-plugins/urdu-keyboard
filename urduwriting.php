@@ -3,7 +3,7 @@
    Plugin Name: Urdu Keyboard
    Plugin URI: https://wordpress.org/plugins/urdu-keyboard/
    Description: This Urdu Keyoboard (Phonetic) for WordPress, enables you to easily type Urdu in WordPress without installing Urduphonetic keyboard in your system.
-   Version: 1.0
+   Version: 1.1
    Author: Zayed Baloch
    Author URI: http://www.radlabs.biz/
    License: GPL2
@@ -47,7 +47,7 @@ class RadLabs_Urdu_Keyboard {
    * Register admin scripts
    */
   public function admin_scripts() {
-      wp_enqueue_script( 'rluk-editor', RLUK_URL . '/assets/script/urdueditor.js', array( 'jquery' ), RLUK_VERSION, true );
+      wp_enqueue_script( 'rluk-editor', RLUK_URL . '/assets/script/UrduEditor.js', array( 'jquery' ), RLUK_VERSION, true );
       wp_enqueue_script( 'rluk-init', RLUK_URL . '/assets/script/init.js', array( 'jquery' ), RLUK_VERSION, true );
   }
 

@@ -4,7 +4,7 @@ Donate link: http://radlabs.biz/
 Tags: urdu keyboard, urdu writting, Urdu,
 Requires at least: 3.2
 Tested up to: 4.1
-Stable tag: 1.0
+Stable tag: 1.1
 License: GPLv2 or later
 
 Easily write Urdu unicode on WordPress without installing Urdu keyboard on your system.
@@ -59,6 +59,9 @@ Pressing `Ctrl + Space` to change keyboard writing from `English to Urdu` or `Ur
 * First Release
 
 == Upgrade Notice ==
+
+= 1.1 =
+Fixed Urdu Keyboard writing in Post and Pages.
 
 = 1.0 =
 First Release.
