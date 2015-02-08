@@ -1,7 +1,7 @@
 === Plugin Name ===
 Contributors: zayedbaloch, naeemnur,
 Donate link: http://radlabs.biz/
-Tags: urdu keyboard, urdu writting, Urdu,
+Tags: Urdu Keyboard, Urdu Writting, Urdu, Posts, Pages, Admin
 Requires at least: 3.2
 Tested up to: 4.1
 Stable tag: 1.1
