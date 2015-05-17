@@ -1,5 +1,5 @@
 === Plugin Name ===
-Contributors: zayedbaloch, naeemnur,
+Contributors: zayedbaloch, naeemnur, pixeldesign,
 Donate link: http://radlabs.biz/
 Tags: Urdu Keyboard, Urdu Writting, Urdu, Posts, Pages, Admin
 Requires at least: 3.2
