@@ -122,7 +122,7 @@ class RadLabs_Urdu_Keyboard {
         <hr/>
         <h4>Powered by: <a href="http://www.radlabs.biz/">Rad Labs</a></h4>
         <p><i>Special Thanks to: UrduWeb for support on Urdu Editor</i></p>
-        
+
         <hr/>
         <h3>Compatible Browsers:</h3>
         <p><img src="<?php echo RLUK_URL . "/assets/images/ic-browsers.png";?>" alt=""/></p>
