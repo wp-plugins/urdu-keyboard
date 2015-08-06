@@ -1,7 +1,7 @@
 === Plugin Name ===
-Contributors: zayedbaloch, naeemnur, pixeldesign
-Donate link: http://radlabs.biz/
-Tags: Urdu Keyboard, Urdu Writting, Urdu, Posts, Pages, Admin
+Contributors: zayedbaloch, naeemnur, pixeldesign,
+Donate link: http://pixeldesign.io/
+Tags: Urdu Keyboard, Urdu Writting, Urdu, Posts, Pages, Admin,
 Requires at least: 3.2
 Tested up to: 4.2
 Stable tag: 1.1
