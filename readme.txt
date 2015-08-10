@@ -3,7 +3,7 @@ Contributors: zayedbaloch, naeemnur, pixeldesign,
 Donate link: http://pixeldesign.io/
 Tags: Urdu Keyboard, Urdu Writting, Urdu, Posts, Pages, Admin,
 Requires at least: 3.2
-Tested up to: 4.2
+Tested up to: 4.3
 Stable tag: 1.1
 License: GPLv2 or later
 
@@ -15,8 +15,6 @@ This is the First Urdu writing keyboard Plugin for WordPress. Now you can easily
 
 This Urdu Keyoboard (Phonetic) for WordPress, enables you to easily type Urdu in WordPress without installing Urduphonetic keyboard in your system.
 
-= Contact =
-Rad Labs http://www.radlabs.biz
 
 = Compatible Browsers =
 Chrome, Firefox, IE10, IE11, Safari and Opera.
